@@ -26,7 +26,6 @@ Scales the target node group back up (default desiredSize=4).
   ./scale-up.sh
 
 
-
 ⚙️ Prerequisites
 1. AWS CLI Installed & Configured
 Make sure you have AWS CLI v2 installed and configured with credentials that have EKS permissions.
@@ -44,7 +43,6 @@ Make the scripts executable:
 
    ```
    chmod +x scale-to-zero.sh scale-up.sh
-
 
 📝 Configuration
 Each script contains variables you can modify:
